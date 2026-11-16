@@ -1,0 +1,53 @@
+Policy: random
+Seed: 11000
+Start state: 0
+
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: Left -> state 0, reward 0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: Up -> state 0, reward 0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: Right -> state 1, reward 0
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 4: Left -> state 0, reward 0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 5: Right -> state 1, reward 0
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 6: Down -> state 5, reward 0
+  (Down)
+SFFF
+F[41mH[0mFH
+FFFH
+HFFG
+
+Outcome: hole

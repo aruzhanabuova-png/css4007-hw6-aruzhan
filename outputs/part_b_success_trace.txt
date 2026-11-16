@@ -1,0 +1,130 @@
+Policy: random
+Seed: 22006
+Start state: 0
+
+
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 1: Up -> state 0, reward 0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 2: Left -> state 0, reward 0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 3: Left -> state 0, reward 0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 4: Up -> state 0, reward 0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 5: Left -> state 0, reward 0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 6: Down -> state 4, reward 0
+  (Down)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 7: Left -> state 4, reward 0
+  (Left)
+SFFF
+[41mF[0mHFH
+FFFH
+HFFG
+
+Step 8: Up -> state 0, reward 0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 9: Left -> state 0, reward 0
+  (Left)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 10: Up -> state 0, reward 0
+  (Up)
+[41mS[0mFFF
+FHFH
+FFFH
+HFFG
+
+Step 11: Right -> state 1, reward 0
+  (Right)
+S[41mF[0mFF
+FHFH
+FFFH
+HFFG
+
+Step 12: Right -> state 2, reward 0
+  (Right)
+SF[41mF[0mF
+FHFH
+FFFH
+HFFG
+
+Step 13: Down -> state 6, reward 0
+  (Down)
+SFFF
+FH[41mF[0mH
+FFFH
+HFFG
+
+Step 14: Down -> state 10, reward 0
+  (Down)
+SFFF
+FHFH
+FF[41mF[0mH
+HFFG
+
+Step 15: Down -> state 14, reward 0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 16: Down -> state 14, reward 0
+  (Down)
+SFFF
+FHFH
+FFFH
+HF[41mF[0mG
+
+Step 17: Right -> state 15, reward 1
+  (Right)
+SFFF
+FHFH
+FFFH
+HFF[41mG[0m
+
+Outcome: goal
